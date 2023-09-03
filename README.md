@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soma00333&label=Profile%20views&color=0e75b6&style=flat" alt="soma00333" /> </p>
 
 <p align="left"> <a href="https://twitter.com/soma00333" target="blank"><img src="https://img.shields.io/twitter/follow/soma00333?logo=twitter&style=for-the-badge" alt="soma00333" /></a> </p>
+
 - 🔭 I’m currently working at **Algomatic Inc**. on a side, technical advisor at STUDIO 100X division (2023/08-)
 
 - 🔭 I’m currently working at **Industry Technology Inc**. as a CTO (2019/06-)
