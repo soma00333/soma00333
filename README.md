@@ -31,16 +31,14 @@
     - Next.js
     - React
     - TypeScript
-    - gRPC-Web
 - Mobile
     - Expo
     - React Native
     - TypeScript
-    - gRPC-Web
 - Backend
     - Go
     - gRPC
-- Infra/DevOps
+- Other
     - AWS
     - ECS
     - Lambda
