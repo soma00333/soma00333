@@ -15,7 +15,7 @@
 
 - 🌱 I majored **Engineering at The University of Tokyo** (2014/04-2018/03)
 
-- 📫 How to reach me **soma03432303@gmail.com**
+- 📫 How to reach me **https://soma00333.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
