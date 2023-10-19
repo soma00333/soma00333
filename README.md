@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/soma00333" target="blank"><img src="https://img.shields.io/twitter/follow/soma00333?logo=twitter&style=for-the-badge" alt="soma00333" /></a> </p>
 
-- 🔭 I’m currently working at **Algomatic Inc**. on a side, technical advisor at STUDIO 100X division (2023/08-)
+- 🔭 I’m currently working at **Algomatic Inc**. on a side, MLOps in LLM STUDIO (2023/08-)
 
 - 🔭 I’m currently working at **Industry Technology Inc**. as a CTO (2019/06-)
 
