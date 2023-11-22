@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/soma00333" target="blank"><img src="https://img.shields.io/twitter/follow/soma00333?logo=twitter&style=for-the-badge" alt="soma00333" /></a> </p>
 
-- 🔭 I’m currently working at **enechain Co., Ltd.**. on a side, SRE in SRE desk (2023/11-)
+- 🔭 I’m currently working at **enechain Co., Ltd.** on a side, SRE in SRE desk (2023/11-)
 
 - 🔭 I’m currently working at **Algomatic Inc**. on a side, MLOps engineer in LLM STUDIO (2023/08-)
 
