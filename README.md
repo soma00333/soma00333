@@ -42,7 +42,6 @@
     - Datadog
     - Github actions
     - Terraform
-    - Kubernetes
 
 
 <h3 align="left">Stats:</h3>
