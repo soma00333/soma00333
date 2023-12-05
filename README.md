@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Web
+- Frontend
     - Next.js
     - React
     - Typescript
@@ -40,8 +40,9 @@
     - AWS
 - Other
     - Datadog
-    - Github actions
+    - GitHub Actions
     - Terraform
+    - Kubernetes
 
 
 <h3 align="left">Stats:</h3>
