@@ -13,7 +13,7 @@
 
 - 🔭 I worked at **Gunosy Inc**. as a marketer, data analyst (2018/04-2019/06)
 
-- 🔭 I worked at **ZUU Inc**. as an intern, backend engineer (2018/01-2018/03)
+- 🔭 I worked at **ZUU Co., Ltd.** as an intern, backend engineer (2018/01-2018/03)
 
 - 🌱 I majored **Engineering at The University of Tokyo** (2014/04-2018/03)
 
