@@ -4,7 +4,7 @@
 <h3 align="left">Resume</h3>
 https://soma00333.github.io/file/resume.pdf
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/soma00333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soma00333" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soma-utsumi-278a87178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soma-utsumi-278a87178" height="30" width="40" /></a>
@@ -12,7 +12,7 @@ https://soma00333.github.io/file/resume.pdf
 </p>
 
 
-<h3 align="left">Stats:</h3>
+<h3 align="left">Stats</h3>
 
 [![](https://raw.githubusercontent.com/soma00333/github-profile-summary-cards/master/profile-summary-card-output/darcula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/soma00333/github-profile-summary-cards/master/profile-summary-card-output/darcula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/soma00333/github-profile-summary-cards/master/profile-summary-card-output/darcula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
