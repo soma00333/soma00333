@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soma</h1>
-<h3 align="center">Co-founder and CTO at a startup in Tokyo,Japan</h3>
+<h3 align="center">I'm a Software Engineer and Site Reliability Engineer at startups in Tokyo, Japan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soma00333&label=Profile%20views&color=0e75b6&style=flat" alt="soma00333" /> </p>
 
