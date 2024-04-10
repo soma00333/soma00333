@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soma</h1>
-<h3 align="center">Software Engineer and Site Reliability Engineer in Tokyo, Japan.</h3>
+<h3 align="center">Site Reliability Engineer in Tokyo, Japan.</h3>
 
 <h3 align="left">Resume</h3>
-https://soma00333.github.io/file/resume.pdf
+https://soma00333.notion.site/Soma-Utsumi-32fff212315a4e9d894b704d52b23074
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
