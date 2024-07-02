@@ -8,7 +8,6 @@ https://soma00333.notion.site/Soma-Utsumi-32fff212315a4e9d894b704d52b23074
 <p align="left">
 <a href="https://twitter.com/soma00333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soma00333" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soma-utsumi-278a87178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soma-utsumi-278a87178" height="30" width="40" /></a>
-<a href="https://fb.com/soma.utsumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soma.utsumi" height="30" width="40" /></a>
 </p>
 
 
