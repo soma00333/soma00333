@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Soma</h1>
-<h3 align="center">Platform Engineer at startups in Tokyo, Japan.</h3>
+<h3 align="center">Senior Software Engineer at startups in Tokyo, Japan.</h3>
+
+<h3 align="left">Summary</h3>
+<a>I'm a Senior Software Engineer with 6+ years of professional experience in Japan.
+I engaged in the backend developments for enterprise applications and the operation of cloud infrastructures with high-security requirements.
+I am proficient in developing microservices with Go and managing infrastructures using Kubernetes.</a>
 
 <h3 align="left">Personal Website</h3>
 https://soma00333.notion.site/Soma-Utsumi-32fff212315a4e9d894b704d52b23074
