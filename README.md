@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soma</h1>
-<h3 align="center">Senior Software Engineer at startups in Tokyo, Japan.</h3>
+<h3 align="center">Software Engineer</h3>
 
 <h3 align="left">Summary</h3>
-<a>I'm a Senior Software Engineer with 6+ years of professional experience in Japan.
+<a>I’m a software engineer with 6+ years of professional experience specializing in reliability.
 I engaged in the backend developments for enterprise applications and the operation of cloud infrastructures with high-security requirements.
 I am proficient in developing microservices with Go and managing infrastructures using Kubernetes.</a>
 
