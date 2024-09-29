@@ -10,6 +10,7 @@ Hi, I'm [Soma](https://soma00333.notion.site/Soma-Utsumi-32fff212315a4e9d894b704
 - [GitHub](https://github.com/soma00333)
 - [Twitter](https://x.com/soma00333)
 - [Linkedin](https://www.linkedin.com/in/soma-utsumi-278a87178/)
+- soma03432303@gmail.com
 
 <h2 align="left">Education</h2>
 
