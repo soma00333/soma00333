@@ -1,6 +1,6 @@
 <h2 align="left">Summary</h2>
 
-Hi, I'm Soma, a software engineer in Tokyo, Japan.  
+Hi, I'm Soma.
 I’m a software engineer with 6+ years of professional experience specializing in reliability.  
 I engaged in the backend developments for enterprise applications and the operation of large-scale distributed systems.  
 I am proficient in development with Go/Rust and managing infrastructures using Kubernetes.  
