@@ -1,8 +1,8 @@
 <h2 align="left">Summary</h2>
 
-- Role: Software engineer with 6+ years of expertise in site reliability engineering and backend development
-- Experience: Designing and developing large-scale distributed systems and enterprise applications
-- Skill: Go and Java development alongside Kubernetes infrastructure management
+- Role: Software engineer with 6+ years of experience in site reliability and backend development
+- Experience: Designed and developed large-scale distributed systems and enterprise applications, ensuring high performance and scalability
+- Skill: Go, Java, Kubernetes
 
 <h2 align="left">Contacts</h2>
 
