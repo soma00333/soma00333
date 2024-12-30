@@ -2,7 +2,7 @@
 
 - Role: Software engineer with 6+ years of experience in site reliability and backend development
 - Experience: Designed and developed large-scale distributed systems and enterprise applications, ensuring high performance and scalability
-- Skill: Go, Java, Kubernetes
+- Skill: Go and Java development with Kubernetes infrastructure management
 
 <h2 align="left">Contacts</h2>
 
@@ -12,7 +12,7 @@
 
 <h2 align="left">Education</h2>
 
-- [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) Bachelor's degree, Engineering
+- [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html): Bachelor's degree, Engineering
 
 <h2 align="left">Stats</h2>
 
