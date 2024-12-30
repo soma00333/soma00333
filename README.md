@@ -7,7 +7,6 @@
 <h2 align="left">Contacts</h2>
 
 - [GitHub](https://github.com/soma00333)
-- [Twitter](https://x.com/soma00333)
 - [Linkedin](https://www.linkedin.com/in/soma-utsumi-278a87178/)
 - soma03432303@gmail.com
 
