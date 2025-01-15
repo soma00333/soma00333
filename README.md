@@ -12,7 +12,7 @@
 
 <h2 align="left">Education</h2>
 
-- [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html): Bachelor's degree, Engineering
+- [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html): Bachelor of Engineering - BE
 
 <h2 align="left">Stats</h2>
 
