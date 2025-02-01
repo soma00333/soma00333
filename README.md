@@ -2,7 +2,7 @@
 
 - Role: Software engineer with 6+ years of experience in site reliability and backend development
 - Experience: Designed and developed large-scale distributed systems and enterprise applications, ensuring high performance and scalability
-- Skill: Development with Go and Kubernetes
+- Skill: Go, Python, Rust, Kubernetes
 
 <h2 align="left">Contacts</h2>
 
