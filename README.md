@@ -1,6 +1,6 @@
 <h2 align="left">Summary</h2>
 
-- Role: Software engineer with 6+ years of experience in site reliability and backend development
+- Role: Software engineer with 7+ years of experience in site reliability and backend development
 - Experience: Designed and developed large-scale distributed systems and enterprise applications, ensuring high performance and scalability
 - Skill: Go, Python, Java, Kubernetes
 
