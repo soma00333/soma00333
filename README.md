@@ -8,6 +8,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/soma-utsumi-278a87178/)
 - soma03432303@gmail.com
+- [Website](https://soma00333.github.io/profile/)
 
 <h2 align="left">Education</h2>
 
