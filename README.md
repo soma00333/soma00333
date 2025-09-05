@@ -1,4 +1,4 @@
-Hello and welcome! I’m Soma, a Software Engineer at [Cybereason](https://www.cybereason.com/).
+Hello and welcome! I’m Soma, a Senior Support Engineer at OpenAI.
 
 - Role: Software Engineer with 7+ years of experience in site reliability and backend development
 - Experience: Designed and developed large-scale distributed systems and enterprise applications, ensuring high performance and scalability
