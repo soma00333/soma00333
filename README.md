@@ -1,4 +1,4 @@
-Hello and welcome! I’m Soma, a Senior Support Engineer at OpenAI.
+Hello and welcome! I’m Soma, a Senior Engineer at OpenAI.
 
 - Role: Software Engineer with 7+ years of experience in Reliability Engineering
 - Experience: Observability Development and Incident Response experties for distributed systems
