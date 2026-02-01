@@ -13,4 +13,5 @@ Hello and welcome! I’m Soma, a Senior Engineer at OpenAI.
 <h2 align="left">Education</h2>
 
 - [University of Colorado Boulder](https://www.colorado.edu/): Master of Science in Computer Science
+- [University of Colorado Boulder](https://www.colorado.edu/): Graduate Certificate in Artificial Intelligence
 - [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html): Bachelor of Engineering
