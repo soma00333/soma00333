@@ -1,7 +1,7 @@
 Hello and welcome! I’m Soma, a Senior Engineer at OpenAI.
 
 - Role: Software Engineer with 8+ years of experience in Reliability Engineering
-- Experience: Observability, Monitoring, and Incident Response expertise for distributed systems
+- Experience: Observability, monitoring, incident response, and performance optimization expertise for distributed systems
 - Skills: Go, Rust, Kubernetes
 - [Website](https://soma00333.github.io/profile/)
 
