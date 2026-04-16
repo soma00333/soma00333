@@ -12,7 +12,6 @@ Hello and welcome! I’m Soma, a Senior Engineer at OpenAI.
 <h2 align="left">Contacts</h2>
 
 - [Linkedin](https://www.linkedin.com/in/soma-utsumi-278a87178/)
-- soma03432303@gmail.com
 
 <h2 align="left">Education</h2>
 
